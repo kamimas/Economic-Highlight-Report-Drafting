@@ -16,3 +16,7 @@ For the User Interface, PyQt5 was used since the Qt Library includes a designer 
 # How to use the software
 
 Download all the files and simply run AdvanceUi8.py with python3
+
+
+
+Reach out to me at Kamyarh65@gmil.com
