@@ -19,4 +19,4 @@ Download all the files and simply run AdvanceUi8.py with python3
 
 
 
-Reach out to me at Kamyarh65@gmil.com
+Reach out to me at Kamyarh65@gmail.com
